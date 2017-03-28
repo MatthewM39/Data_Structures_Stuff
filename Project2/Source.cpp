@@ -1,0 +1,52 @@
+#include <iostream>
+#include "OrderedMultiList.h"
+using namespace std;
+void main() {
+	OrderedMultiList oml;
+	cout << "Current size: " << oml.size() << " Unique Size: " << oml.uniqueSize() << endl;
+	oml.print();
+	cout << "is empty: " << oml.empty() << endl;
+	cout << "Find a: " << oml.find('a') << endl;
+	oml.insert('a');
+	cout << "is empty: " << oml.empty() << endl;
+	cout << "Current size: " << oml.size() << " Unique Size: " << oml.uniqueSize() << endl;
+	oml.print();
+	cout << "Attempt to remove a: " << oml.remove('a') << endl;
+	cout << "Attempt to remove b: " << oml.remove('b') << endl;
+	cout << "Attempt to insert a: " << oml.insert('a') << endl;
+	cout << "Attempt to insert c: " << oml.insert('c') << endl;
+	oml.print();
+	cout << "Current size: " << oml.size() << " Unique Size: " << oml.uniqueSize() << endl;
+	cout << "attempt to insert b: " << oml.insert('b') << endl;
+	cout << "Current size: " << oml.size() << " Unique Size: " << oml.uniqueSize() << endl;
+	cout << "Inserting a, b, c: " << oml.insert('a', 99) << oml.insert('b', 99) << oml.insert('c', 99) << endl;
+	cout << "Current size: " << oml.size() << " Unique Size: " << oml.uniqueSize() << endl;
+	cout << oml.insert('a', 100) << oml.empty() << endl;
+	oml.print();
+	cout << "Remove all a's: " << oml.removeAll('a') << endl;
+	oml.print();
+	cout << "Remove all c's: " << oml.removeAll('c') << endl;
+	oml.print();
+	cout << "is empty: " << oml.empty() << endl;
+	cout << "Remove all b's: " << oml.removeAll('b') << endl;
+	cout << "is empty: " << oml.empty() << endl;
+	oml.print();
+	cout << "a count: " << oml.count('a') << endl;
+	cout << "insert a, b , c , d , e: " << endl;
+	oml.insert('a');
+	oml.insert('b');
+	oml.insert('c');
+	oml.insert('d');
+	cout << "a count: " << oml.count('a') << endl;
+	oml.insert('a', 99);
+	oml.insert('d', 99);
+	oml.print();
+	cout << "a count: " << oml.count('a') << endl;
+	cout << "d count: " << oml.count('d') << endl;
+	oml.removeAll('d');
+	oml.remove('c');
+	oml.insert('x');
+	oml.print();
+	cout << "Find q, r , s: " << oml.find('q') << oml.find('r') << oml.find('s') << endl;
+	cout << "Find a, b, x: " << oml.find('a') << oml.find('b') << oml.find('x') << endl;
+}

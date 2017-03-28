@@ -1,0 +1,42 @@
+D:\Joseph\Documents\- CSU -\2010 Fall\Applied Networking\BuddyChat\BuddyChat\bin\Debug\BuddyChat.exe
+D:\Joseph\Documents\- CSU -\2010 Fall\Applied Networking\BuddyChat\BuddyChat\bin\Debug\BuddyChat.pdb
+D:\Joseph\Documents\- CSU -\2010 Fall\Applied Networking\BuddyChat\BuddyChat\bin\Debug\BuddyChat.xml
+D:\Joseph\Documents\- CSU -\2010 Fall\Applied Networking\BuddyChat\BuddyChat\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Joseph\Documents\- CSU -\2010 Fall\Applied Networking\BuddyChat\BuddyChat\obj\x86\Debug\BuddyChat.Form1.resources
+D:\Joseph\Documents\- CSU -\2010 Fall\Applied Networking\BuddyChat\BuddyChat\obj\x86\Debug\BuddyChat.Resources.resources
+D:\Joseph\Documents\- CSU -\2010 Fall\Applied Networking\BuddyChat\BuddyChat\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Joseph\Documents\- CSU -\2010 Fall\Applied Networking\BuddyChat\BuddyChat\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Joseph\Documents\- CSU -\2010 Fall\Applied Networking\BuddyChat\BuddyChat\obj\x86\Debug\BuddyChat.exe
+D:\Joseph\Documents\- CSU -\2010 Fall\Applied Networking\BuddyChat\BuddyChat\obj\x86\Debug\BuddyChat.xml
+D:\Joseph\Documents\- CSU -\2010 Fall\Applied Networking\BuddyChat\BuddyChat\obj\x86\Debug\BuddyChat.pdb
+D:\- CSU -\2010 Fall\Applied Networking\BuddyChat\BuddyChat\obj\x86\Debug\BuddyChat.exe
+D:\- CSU -\2010 Fall\Applied Networking\BuddyChat\BuddyChat\obj\x86\Debug\BuddyChat.xml
+D:\- CSU -\2010 Fall\Applied Networking\BuddyChat\BuddyChat\obj\x86\Debug\BuddyChat.pdb
+D:\- CSU -\2010 Fall\Applied Networking\BuddyChat Solution\BuddyChat\obj\x86\Debug\BuddyChat.exe
+D:\- CSU -\2010 Fall\Applied Networking\BuddyChat Solution\BuddyChat\obj\x86\Debug\BuddyChat.xml
+D:\- CSU -\2010 Fall\Applied Networking\BuddyChat Solution\BuddyChat\obj\x86\Debug\BuddyChat.pdb
+D:\- CSU -\2010 Fall\Applied Networking\BuddyChat Solution\BuddyChat\bin\Debug\BuddyChat.exe
+D:\- CSU -\2010 Fall\Applied Networking\BuddyChat Solution\BuddyChat\bin\Debug\BuddyChat.pdb
+D:\- CSU -\2010 Fall\Applied Networking\BuddyChat Solution\BuddyChat\bin\Debug\BuddyChat.xml
+D:\- CSU -\2010 Fall\Applied Networking\BuddyChat Solution\BuddyChat\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\- CSU -\2010 Fall\Applied Networking\BuddyChat Solution\BuddyChat\obj\x86\Debug\BuddyChat.Form1.resources
+D:\- CSU -\2010 Fall\Applied Networking\BuddyChat Solution\BuddyChat\obj\x86\Debug\BuddyChat.Resources.resources
+D:\- CSU -\2010 Fall\Applied Networking\BuddyChat Solution\BuddyChat\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\- CSU -\2010 Fall\Applied Networking\BuddyChat Solution\BuddyChat\obj\x86\Debug\GenerateResource.write.1.tlog
+z:\Users\Joseph\Documents\- CSU -\2011 Fall\Applied Networking\- Project -\BuddyChat Client\BuddyChat\obj\x86\Debug\BuddyChat.exe
+z:\Users\Joseph\Documents\- CSU -\2011 Fall\Applied Networking\- Project -\BuddyChat Client\BuddyChat\obj\x86\Debug\BuddyChat.xml
+z:\Users\Joseph\Documents\- CSU -\2011 Fall\Applied Networking\- Project -\BuddyChat Client\BuddyChat\obj\x86\Debug\BuddyChat.pdb
+z:\Users\Joseph\Documents\- CSU -\2011 Fall\Applied Networking\- Project -\BuddyChat Client\BuddyChat\bin\Debug\BuddyChat.exe
+z:\Users\Joseph\Documents\- CSU -\2011 Fall\Applied Networking\- Project -\BuddyChat Client\BuddyChat\bin\Debug\BuddyChat.pdb
+z:\Users\Joseph\Documents\- CSU -\2011 Fall\Applied Networking\- Project -\BuddyChat Client\BuddyChat\bin\Debug\BuddyChat.xml
+z:\Users\Joseph\Documents\- CSU -\2011 Fall\Applied Networking\- Project -\BuddyChat Client\BuddyChat\obj\x86\Debug\ResolveAssemblyReference.cache
+z:\Users\Joseph\Documents\- CSU -\2011 Fall\Applied Networking\- Project -\BuddyChat Client\BuddyChat\obj\x86\Debug\BuddyChat.Form1.resources
+z:\Users\Joseph\Documents\- CSU -\2011 Fall\Applied Networking\- Project -\BuddyChat Client\BuddyChat\obj\x86\Debug\BuddyChat.Resources.resources
+z:\Users\Joseph\Documents\- CSU -\2011 Fall\Applied Networking\- Project -\BuddyChat Client\BuddyChat\obj\x86\Debug\GenerateResource.read.1.tlog
+z:\Users\Joseph\Documents\- CSU -\2011 Fall\Applied Networking\- Project -\BuddyChat Client\BuddyChat\obj\x86\Debug\GenerateResource.write.1.tlog
+z:\Users\Joseph\Documents\- CSU -\2011 Fall\Applied Networking\- Project -\BuddyChat V1\BuddyChat\obj\x86\Debug\BuddyChat.exe
+z:\Users\Joseph\Documents\- CSU -\2011 Fall\Applied Networking\- Project -\BuddyChat V1\BuddyChat\obj\x86\Debug\BuddyChat.xml
+z:\Users\Joseph\Documents\- CSU -\2011 Fall\Applied Networking\- Project -\BuddyChat V1\BuddyChat\obj\x86\Debug\BuddyChat.pdb
+z:\Users\Joseph\Documents\- CSU -\2011 Fall\Applied Networking\- Term Project -\BuddyChat V1\BuddyChat\obj\x86\Debug\BuddyChat.exe
+z:\Users\Joseph\Documents\- CSU -\2011 Fall\Applied Networking\- Term Project -\BuddyChat V1\BuddyChat\obj\x86\Debug\BuddyChat.xml
+z:\Users\Joseph\Documents\- CSU -\2011 Fall\Applied Networking\- Term Project -\BuddyChat V1\BuddyChat\obj\x86\Debug\BuddyChat.pdb

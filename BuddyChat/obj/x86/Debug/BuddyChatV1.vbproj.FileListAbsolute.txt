@@ -1,0 +1,21 @@
+z:\Users\Joseph\Documents\- CSU -\2011 Fall\Applied Networking\- Term Project -\BuddyChat V1\BuddyChat\bin\Debug\BuddyChat.exe
+z:\Users\Joseph\Documents\- CSU -\2011 Fall\Applied Networking\- Term Project -\BuddyChat V1\BuddyChat\bin\Debug\BuddyChat.pdb
+z:\Users\Joseph\Documents\- CSU -\2011 Fall\Applied Networking\- Term Project -\BuddyChat V1\BuddyChat\bin\Debug\BuddyChat.xml
+z:\Users\Joseph\Documents\- CSU -\2011 Fall\Applied Networking\- Term Project -\BuddyChat V1\BuddyChat\obj\x86\Debug\ResolveAssemblyReference.cache
+z:\Users\Joseph\Documents\- CSU -\2011 Fall\Applied Networking\- Term Project -\BuddyChat V1\BuddyChat\obj\x86\Debug\BuddyChat.Form1.resources
+z:\Users\Joseph\Documents\- CSU -\2011 Fall\Applied Networking\- Term Project -\BuddyChat V1\BuddyChat\obj\x86\Debug\BuddyChat.Resources.resources
+z:\Users\Joseph\Documents\- CSU -\2011 Fall\Applied Networking\- Term Project -\BuddyChat V1\BuddyChat\obj\x86\Debug\GenerateResource.read.1.tlog
+z:\Users\Joseph\Documents\- CSU -\2011 Fall\Applied Networking\- Term Project -\BuddyChat V1\BuddyChat\obj\x86\Debug\GenerateResource.write.1.tlog
+z:\Users\Joseph\Documents\- CSU -\2011 Fall\Applied Networking\- Term Project -\BuddyChat V1\BuddyChat\obj\x86\Debug\BuddyChat.exe
+z:\Users\Joseph\Documents\- CSU -\2011 Fall\Applied Networking\- Term Project -\BuddyChat V1\BuddyChat\obj\x86\Debug\BuddyChat.xml
+z:\Users\Joseph\Documents\- CSU -\2011 Fall\Applied Networking\- Term Project -\BuddyChat V1\BuddyChat\obj\x86\Debug\BuddyChat.pdb
+C:\Users\Matthew\Documents\Visual Studio 2015\Projects\TermProject Part1\BuddyChat\obj\x86\Debug\BuddyChat.exe
+C:\Users\Matthew\Documents\Visual Studio 2015\Projects\TermProject Part1\BuddyChat\obj\x86\Debug\BuddyChat.xml
+C:\Users\Matthew\Documents\Visual Studio 2015\Projects\TermProject Part1\BuddyChat\obj\x86\Debug\BuddyChat.pdb
+C:\Users\Matthew\Documents\Visual Studio 2015\Projects\TermProject Part1\BuddyChat\bin\Debug\BuddyChat.exe
+C:\Users\Matthew\Documents\Visual Studio 2015\Projects\TermProject Part1\BuddyChat\bin\Debug\BuddyChat.pdb
+C:\Users\Matthew\Documents\Visual Studio 2015\Projects\TermProject Part1\BuddyChat\bin\Debug\BuddyChat.xml
+C:\Users\Matthew\Documents\Visual Studio 2015\Projects\TermProject Part1\BuddyChat\obj\x86\Debug\BuddyChat.Form1.resources
+C:\Users\Matthew\Documents\Visual Studio 2015\Projects\TermProject Part1\BuddyChat\obj\x86\Debug\BuddyChat.Resources.resources
+C:\Users\Matthew\Documents\Visual Studio 2015\Projects\TermProject Part1\BuddyChat\obj\x86\Debug\BuddyChatV1.vbproj.GenerateResource.Cache
+C:\Users\Matthew\Documents\Visual Studio 2015\Projects\TermProject Part1\BuddyChat\obj\x86\Debug\BuddyChatV1.vbprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\matthew\documents\visual studio 2015\projects\hiringproblem\hiringproblem\source.cpp(16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\matthew\documents\visual studio 2015\projects\hiringproblem\hiringproblem\source.cpp(63): warning C4018: '<': signed/unsigned mismatch
+c:\users\matthew\documents\visual studio 2015\projects\hiringproblem\hiringproblem\source.cpp(79): warning C4018: '<': signed/unsigned mismatch
+  HiringProblem.vcxproj -> C:\Users\Matthew\Documents\Visual Studio 2015\Projects\HiringProblem\Debug\HiringProblem.exe

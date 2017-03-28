@@ -1,0 +1,6 @@
+﻿  anagramMaker.cpp
+  main.cpp
+  StopWatch.cpp
+  Generating code
+c:\users\matthew\documents\visual studio 2015\projects\anagrammaker\anagrammaker\stopwatch.cpp : fatal error C1301: error accessing program database C:\Users\Matthew\Documents\Visual Studio 2015\Projects\anagramMaker\Release\anagramMaker.ipdb, invalid format, please delete and rebuild
+LINK : fatal error LNK1257: code generation failed
